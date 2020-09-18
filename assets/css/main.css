@@ -9,14 +9,6 @@ body{
     height: auto;
 }
 
-@media (max-width: 480px) {
-    
-    .container{
-        padding-left: 1pc;
-        padding-right: 1pc;
-    }
-
-}
 
 #header{
     width: 100%;     
@@ -119,3 +111,12 @@ text-align: center;
 
 }
 
+
+@media (max-width: 480px) {
+    
+    .container{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+}
