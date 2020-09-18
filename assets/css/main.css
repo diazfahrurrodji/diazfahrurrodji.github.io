@@ -1,0 +1,109 @@
+body{
+    margin:0;
+    background:#f5f5f5;
+    color:#333;
+    width: 100%;
+    height: auto;
+}
+
+#header{
+    width: 100%;     
+    height: 45px;
+    padding-top: 11px;
+    background: rgb(12, 128, 206);
+    color: #fff;
+}
+
+.container{
+    padding-left: 8pc;
+    padding-right: 8pc;
+}
+
+.float-left{
+    width: 50%;
+    float: left;
+}
+
+.float-right{
+    width: 50%;
+    float: right;
+}
+.brand
+{
+    color:#fff;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+.navbar{
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.nav-link{
+    padding-left: 10px;
+    color: #fff;
+    text-decoration: none;
+    padding-right: 10px;
+}
+.nav-link:hover{
+    background: #fff;
+    color: #333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+
+
+#aboute {
+    background: rgb(5, 177, 177);
+    color: white;
+    padding-bottom: 20pc;
+    padding-top: 4pc;
+    width: 100%;
+    height: auto;
+
+}
+
+.gambar { 
+
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    display: black;
+   margin-left: 4pc;
+
+}
+.box{
+    padding: 9px 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: rgb(12, 128, 206);
+    color: white;
+    margin-bottom: 1pc ;
+
+}
+
+#projek{
+    background: white;
+    margin-top: -2pc;
+}
+
+#contact{
+    background: #1359b4 ;
+    color: #fff;
+    padding-top:2pc;
+    padding-bottom: 10PC;
+
+}
+
+#footer 
+{ background: #7a1883 ;
+    color: #fff;
+    padding-top:1pc;
+    padding-bottom: 1PC;
+text-align: center;
+
+}
+
